@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Device from './components/Device/Device'
 import Watch from './components/Watch/Watch'
-import Knob from './components/Knob/knob'
+import Knob from './components/Knob/Knob'
 
 function App() {
   const [count, setCount] = useState(0)
